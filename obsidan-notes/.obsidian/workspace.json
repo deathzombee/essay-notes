@@ -11,14 +11,10 @@
             "id": "59f328a25d99abe4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apl/language at the speed of thought.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "language at the speed of thought"
+              "title": "New tab"
             }
           }
         ]
@@ -193,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59f328a25d99abe4",
+  "active": "e09b2e6ae8b29ba7",
   "lastOpenFiles": [
     "apl-pres/apl2.md",
     "apl-pres/apl2.MD",
