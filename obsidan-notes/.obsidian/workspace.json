@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apl-pres/apl2.md",
+                "file": "apl/language at the speed of thought.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "apl2"
+              "title": "language at the speed of thought"
             }
           }
         ]
@@ -193,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e09b2e6ae8b29ba7",
+  "active": "59f328a25d99abe4",
   "lastOpenFiles": [
+    "apl-pres/apl2.md",
     "apl-pres/apl2.MD",
     "apl-pres/apl.MD",
     "apl/language at the speed of thought.md",
     "apl-pres/test",
-    "apl-pres/apl2.md",
     "apl-pres/apl2.pptx",
     "apl-pres/apl_Gabriel-Calderon.pptx",
     "apl-pres/apl.html",
